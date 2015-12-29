@@ -1,0 +1,6 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IQTest\CodeWars-IQTest\bin\Debug\CodeWars-IQTest.exe.config
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IQTest\CodeWars-IQTest\bin\Debug\CodeWars-IQTest.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IQTest\CodeWars-IQTest\bin\Debug\CodeWars-IQTest.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IQTest\CodeWars-IQTest\obj\Debug\CodeWars-IQTest.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IQTest\CodeWars-IQTest\obj\Debug\CodeWars-IQTest.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IQTest\CodeWars-IQTest\obj\Debug\CodeWars-IQTest.pdb
